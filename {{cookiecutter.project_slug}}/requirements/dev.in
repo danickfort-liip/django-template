@@ -10,3 +10,5 @@ werkzeug
 fabric
 pip-tools
 dulwich<=0.20.3
+fire
+jira
